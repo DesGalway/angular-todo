@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "code insitute angular project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesGalway/angular-todo.git"
+  },
+  "author": "Des Galway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DesGalway/angular-todo/issues"
+  },
+  "homepage": "https://github.com/DesGalway/angular-todo#readme"
+}
